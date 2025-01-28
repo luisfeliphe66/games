@@ -1,0 +1,603 @@
+@prefix ns1: <http://example.org/games/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://example.org/games/record/0> ns1:desenvolvedor_ "Bungie"^^xsd:string ;
+    ns1:genero_ "MMORPG"^^xsd:string ;
+    ns1:lancamento_ "1986"^^xsd:string ;
+    ns1:nome_ "Valorant Reborn"^^xsd:string ;
+    ns1:plataformas_ "PlayStation 5"^^xsd:string .
+
+<http://example.org/games/record/1> ns1:desenvolvedor_ "Blizzard Entertainment"^^xsd:string ;
+    ns1:genero_ "Corrida"^^xsd:string ;
+    ns1:lancamento_ "2001"^^xsd:string ;
+    ns1:nome_ "PUBG Origins"^^xsd:string ;
+    ns1:plataformas_ "Wii U"^^xsd:string .
+
+<http://example.org/games/record/10> ns1:desenvolvedor_ "Activision"^^xsd:string ;
+    ns1:genero_ "Sandbox"^^xsd:string ;
+    ns1:lancamento_ "1987"^^xsd:string ;
+    ns1:nome_ "Stardew Valley Reborn"^^xsd:string ;
+    ns1:plataformas_ "Mobile"^^xsd:string .
+
+<http://example.org/games/record/11> ns1:desenvolvedor_ "FromSoftware"^^xsd:string ;
+    ns1:genero_ "Ação"^^xsd:string ;
+    ns1:lancamento_ "2021"^^xsd:string ;
+    ns1:nome_ "Valorant Infinity"^^xsd:string ;
+    ns1:plataformas_ "Xbox 360"^^xsd:string .
+
+<http://example.org/games/record/12> ns1:desenvolvedor_ "Supercell"^^xsd:string ;
+    ns1:genero_ "RPG"^^xsd:string ;
+    ns1:lancamento_ "2009"^^xsd:string ;
+    ns1:nome_ "Red Dead Redemption Origins"^^xsd:string ;
+    ns1:plataformas_ "PlayStation 5"^^xsd:string .
+
+<http://example.org/games/record/13> ns1:desenvolvedor_ "Activision"^^xsd:string ;
+    ns1:genero_ "FPS"^^xsd:string ;
+    ns1:lancamento_ "2023"^^xsd:string ;
+    ns1:nome_ "Stardew Valley Saga"^^xsd:string ;
+    ns1:plataformas_ "Xbox Series X"^^xsd:string .
+
+<http://example.org/games/record/14> ns1:desenvolvedor_ "Activision"^^xsd:string ;
+    ns1:genero_ "Esporte"^^xsd:string ;
+    ns1:lancamento_ "1996"^^xsd:string ;
+    ns1:nome_ "Fall Guys Saga"^^xsd:string ;
+    ns1:plataformas_ "PlayStation 2"^^xsd:string .
+
+<http://example.org/games/record/15> ns1:desenvolvedor_ "FromSoftware"^^xsd:string ;
+    ns1:genero_ "Ação"^^xsd:string ;
+    ns1:lancamento_ "1994"^^xsd:string ;
+    ns1:nome_ "Diablo Legends"^^xsd:string ;
+    ns1:plataformas_ "PlayStation"^^xsd:string .
+
+<http://example.org/games/record/16> ns1:desenvolvedor_ "CD Projekt Red"^^xsd:string ;
+    ns1:genero_ "Esporte"^^xsd:string ;
+    ns1:lancamento_ "2007"^^xsd:string ;
+    ns1:nome_ "Red Dead Redemption Reborn"^^xsd:string ;
+    ns1:plataformas_ "Wii U"^^xsd:string .
+
+<http://example.org/games/record/17> ns1:desenvolvedor_ "Nintendo"^^xsd:string ;
+    ns1:genero_ "Simulação"^^xsd:string ;
+    ns1:lancamento_ "1996"^^xsd:string ;
+    ns1:nome_ "Call of Duty Infinity"^^xsd:string ;
+    ns1:plataformas_ "Nintendo Switch"^^xsd:string .
+
+<http://example.org/games/record/18> ns1:desenvolvedor_ "Mojang"^^xsd:string ;
+    ns1:genero_ "Puzzle"^^xsd:string ;
+    ns1:lancamento_ "2007"^^xsd:string ;
+    ns1:nome_ "Overwatch Saga"^^xsd:string ;
+    ns1:plataformas_ "Xbox"^^xsd:string .
+
+<http://example.org/games/record/19> ns1:desenvolvedor_ "Valve"^^xsd:string ;
+    ns1:genero_ "Terror"^^xsd:string ;
+    ns1:lancamento_ "2019"^^xsd:string ;
+    ns1:nome_ "PUBG Saga"^^xsd:string ;
+    ns1:plataformas_ "PlayStation 2"^^xsd:string .
+
+<http://example.org/games/record/2> ns1:desenvolvedor_ "Epic Games"^^xsd:string ;
+    ns1:genero_ "Corrida"^^xsd:string ;
+    ns1:lancamento_ "1985"^^xsd:string ;
+    ns1:nome_ "Assassin's Creed Odyssey"^^xsd:string ;
+    ns1:plataformas_ "PlayStation 3"^^xsd:string .
+
+<http://example.org/games/record/20> ns1:desenvolvedor_ "Supercell"^^xsd:string ;
+    ns1:genero_ "Puzzle"^^xsd:string ;
+    ns1:lancamento_ "1990"^^xsd:string ;
+    ns1:nome_ "Stardew Valley Saga"^^xsd:string ;
+    ns1:plataformas_ "Mobile"^^xsd:string .
+
+<http://example.org/games/record/21> ns1:desenvolvedor_ "CD Projekt Red"^^xsd:string ;
+    ns1:genero_ "Battle Royale"^^xsd:string ;
+    ns1:lancamento_ "1990"^^xsd:string ;
+    ns1:nome_ "Call of Duty Reborn"^^xsd:string ;
+    ns1:plataformas_ "Wii U"^^xsd:string .
+
+<http://example.org/games/record/22> ns1:desenvolvedor_ "Bethesda Game Studios"^^xsd:string ;
+    ns1:genero_ "Ação"^^xsd:string ;
+    ns1:lancamento_ "2009"^^xsd:string ;
+    ns1:nome_ "Cyberpunk Infinity"^^xsd:string ;
+    ns1:plataformas_ "PlayStation 2"^^xsd:string .
+
+<http://example.org/games/record/23> ns1:desenvolvedor_ "Bethesda Game Studios"^^xsd:string ;
+    ns1:genero_ "Sandbox"^^xsd:string ;
+    ns1:lancamento_ "1992"^^xsd:string ;
+    ns1:nome_ "Assassin's Creed Chronicles"^^xsd:string ;
+    ns1:plataformas_ "Mobile"^^xsd:string .
+
+<http://example.org/games/record/24> ns1:desenvolvedor_ "Epic Games"^^xsd:string ;
+    ns1:genero_ "Ação"^^xsd:string ;
+    ns1:lancamento_ "1990"^^xsd:string ;
+    ns1:nome_ "Grand Theft Auto Adventure"^^xsd:string ;
+    ns1:plataformas_ "PlayStation 2"^^xsd:string .
+
+<http://example.org/games/record/25> ns1:desenvolvedor_ "Santa Monica Studio"^^xsd:string ;
+    ns1:genero_ "Battle Royale"^^xsd:string ;
+    ns1:lancamento_ "2008"^^xsd:string ;
+    ns1:nome_ "League of Legends Origins"^^xsd:string ;
+    ns1:plataformas_ "PlayStation 2"^^xsd:string .
+
+<http://example.org/games/record/26> ns1:desenvolvedor_ "Nintendo"^^xsd:string ;
+    ns1:genero_ "Estratégia"^^xsd:string ;
+    ns1:lancamento_ "2012"^^xsd:string ;
+    ns1:nome_ "League of Legends Reborn"^^xsd:string ;
+    ns1:plataformas_ "Xbox 360"^^xsd:string .
+
+<http://example.org/games/record/27> ns1:desenvolvedor_ "Epic Games"^^xsd:string ;
+    ns1:genero_ "Battle Royale"^^xsd:string ;
+    ns1:lancamento_ "2005"^^xsd:string ;
+    ns1:nome_ "Overwatch Reborn"^^xsd:string ;
+    ns1:plataformas_ "Wii U"^^xsd:string .
+
+<http://example.org/games/record/28> ns1:desenvolvedor_ "Nintendo"^^xsd:string ;
+    ns1:genero_ "Sandbox"^^xsd:string ;
+    ns1:lancamento_ "2001"^^xsd:string ;
+    ns1:nome_ "Overwatch Saga"^^xsd:string ;
+    ns1:plataformas_ "PlayStation 5"^^xsd:string .
+
+<http://example.org/games/record/29> ns1:desenvolvedor_ "Ubisoft"^^xsd:string ;
+    ns1:genero_ "Aventura"^^xsd:string ;
+    ns1:lancamento_ "2005"^^xsd:string ;
+    ns1:nome_ "PUBG Saga"^^xsd:string ;
+    ns1:plataformas_ "Xbox"^^xsd:string .
+
+<http://example.org/games/record/3> ns1:desenvolvedor_ "Mojang"^^xsd:string ;
+    ns1:genero_ "Puzzle"^^xsd:string ;
+    ns1:lancamento_ "2008"^^xsd:string ;
+    ns1:nome_ "Among Us Origins"^^xsd:string ;
+    ns1:plataformas_ "Xbox Series X"^^xsd:string .
+
+<http://example.org/games/record/30> ns1:desenvolvedor_ "Square Enix"^^xsd:string ;
+    ns1:genero_ "Estratégia"^^xsd:string ;
+    ns1:lancamento_ "2022"^^xsd:string ;
+    ns1:nome_ "Call of Duty Adventure"^^xsd:string ;
+    ns1:plataformas_ "Xbox 360"^^xsd:string .
+
+<http://example.org/games/record/31> ns1:desenvolvedor_ "Blizzard Entertainment"^^xsd:string ;
+    ns1:genero_ "Aventura"^^xsd:string ;
+    ns1:lancamento_ "1995"^^xsd:string ;
+    ns1:nome_ "Overwatch Origins"^^xsd:string ;
+    ns1:plataformas_ "PlayStation"^^xsd:string .
+
+<http://example.org/games/record/32> ns1:desenvolvedor_ "Activision"^^xsd:string ;
+    ns1:genero_ "Estratégia"^^xsd:string ;
+    ns1:lancamento_ "2019"^^xsd:string ;
+    ns1:nome_ "Hades Odyssey"^^xsd:string ;
+    ns1:plataformas_ "PlayStation 2"^^xsd:string .
+
+<http://example.org/games/record/33> ns1:desenvolvedor_ "Valve"^^xsd:string ;
+    ns1:genero_ "Estratégia"^^xsd:string ;
+    ns1:lancamento_ "2023"^^xsd:string ;
+    ns1:nome_ "Grand Theft Auto Infinity"^^xsd:string ;
+    ns1:plataformas_ "PlayStation 3"^^xsd:string .
+
+<http://example.org/games/record/34> ns1:desenvolvedor_ "Square Enix"^^xsd:string ;
+    ns1:genero_ "Sandbox"^^xsd:string ;
+    ns1:lancamento_ "2023"^^xsd:string ;
+    ns1:nome_ "Diablo Origins"^^xsd:string ;
+    ns1:plataformas_ "Xbox"^^xsd:string .
+
+<http://example.org/games/record/35> ns1:desenvolvedor_ "Mojang"^^xsd:string ;
+    ns1:genero_ "RPG"^^xsd:string ;
+    ns1:lancamento_ "2022"^^xsd:string ;
+    ns1:nome_ "PUBG Infinity"^^xsd:string ;
+    ns1:plataformas_ "PlayStation"^^xsd:string .
+
+<http://example.org/games/record/36> ns1:desenvolvedor_ "Blizzard Entertainment"^^xsd:string ;
+    ns1:genero_ "FPS"^^xsd:string ;
+    ns1:lancamento_ "2008"^^xsd:string ;
+    ns1:nome_ "The Witcher Chronicles"^^xsd:string ;
+    ns1:plataformas_ "PlayStation 5"^^xsd:string .
+
+<http://example.org/games/record/37> ns1:desenvolvedor_ "Square Enix"^^xsd:string ;
+    ns1:genero_ "MMORPG"^^xsd:string ;
+    ns1:lancamento_ "2011"^^xsd:string ;
+    ns1:nome_ "EVE Online Chronicles"^^xsd:string ;
+    ns1:plataformas_ "PlayStation 3"^^xsd:string .
+
+<http://example.org/games/record/38> ns1:desenvolvedor_ "Valve"^^xsd:string ;
+    ns1:genero_ "RPG"^^xsd:string ;
+    ns1:lancamento_ "1988"^^xsd:string ;
+    ns1:nome_ "Red Dead Redemption Odyssey"^^xsd:string ;
+    ns1:plataformas_ "PlayStation"^^xsd:string .
+
+<http://example.org/games/record/39> ns1:desenvolvedor_ "Santa Monica Studio"^^xsd:string ;
+    ns1:genero_ "RPG"^^xsd:string ;
+    ns1:lancamento_ "2019"^^xsd:string ;
+    ns1:nome_ "Grand Theft Auto Odyssey"^^xsd:string ;
+    ns1:plataformas_ "PlayStation 3"^^xsd:string .
+
+<http://example.org/games/record/4> ns1:desenvolvedor_ "Supercell"^^xsd:string ;
+    ns1:genero_ "Esporte"^^xsd:string ;
+    ns1:lancamento_ "1994"^^xsd:string ;
+    ns1:nome_ "Overwatch Origins"^^xsd:string ;
+    ns1:plataformas_ "Xbox Series X"^^xsd:string .
+
+<http://example.org/games/record/40> ns1:desenvolvedor_ "Activision"^^xsd:string ;
+    ns1:genero_ "RPG"^^xsd:string ;
+    ns1:lancamento_ "2011"^^xsd:string ;
+    ns1:nome_ "Grand Theft Auto Chronicles"^^xsd:string ;
+    ns1:plataformas_ "Wii U"^^xsd:string .
+
+<http://example.org/games/record/41> ns1:desenvolvedor_ "Epic Games"^^xsd:string ;
+    ns1:genero_ "Battle Royale"^^xsd:string ;
+    ns1:lancamento_ "2000"^^xsd:string ;
+    ns1:nome_ "Elden Ring Chronicles"^^xsd:string ;
+    ns1:plataformas_ "PC"^^xsd:string .
+
+<http://example.org/games/record/42> ns1:desenvolvedor_ "Rockstar Games"^^xsd:string ;
+    ns1:genero_ "Aventura"^^xsd:string ;
+    ns1:lancamento_ "1986"^^xsd:string ;
+    ns1:nome_ "Among Us Adventure"^^xsd:string ;
+    ns1:plataformas_ "PC"^^xsd:string .
+
+<http://example.org/games/record/43> ns1:desenvolvedor_ "Mojang"^^xsd:string ;
+    ns1:genero_ "Puzzle"^^xsd:string ;
+    ns1:lancamento_ "1986"^^xsd:string ;
+    ns1:nome_ "Assassin's Creed Chronicles"^^xsd:string ;
+    ns1:plataformas_ "Xbox"^^xsd:string .
+
+<http://example.org/games/record/44> ns1:desenvolvedor_ "Rockstar Games"^^xsd:string ;
+    ns1:genero_ "Aventura"^^xsd:string ;
+    ns1:lancamento_ "2019"^^xsd:string ;
+    ns1:nome_ "Minecraft Adventure"^^xsd:string ;
+    ns1:plataformas_ "Xbox Series X"^^xsd:string .
+
+<http://example.org/games/record/45> ns1:desenvolvedor_ "Square Enix"^^xsd:string ;
+    ns1:genero_ "FPS"^^xsd:string ;
+    ns1:lancamento_ "2008"^^xsd:string ;
+    ns1:nome_ "Fortnite Origins"^^xsd:string ;
+    ns1:plataformas_ "PlayStation 5"^^xsd:string .
+
+<http://example.org/games/record/46> ns1:desenvolvedor_ "Epic Games"^^xsd:string ;
+    ns1:genero_ "Terror"^^xsd:string ;
+    ns1:lancamento_ "2005"^^xsd:string ;
+    ns1:nome_ "Elden Ring Reborn"^^xsd:string ;
+    ns1:plataformas_ "PlayStation 5"^^xsd:string .
+
+<http://example.org/games/record/47> ns1:desenvolvedor_ "CD Projekt Red"^^xsd:string ;
+    ns1:genero_ "Estratégia"^^xsd:string ;
+    ns1:lancamento_ "2013"^^xsd:string ;
+    ns1:nome_ "Apex Legends Adventure"^^xsd:string ;
+    ns1:plataformas_ "Mobile"^^xsd:string .
+
+<http://example.org/games/record/48> ns1:desenvolvedor_ "Ubisoft"^^xsd:string ;
+    ns1:genero_ "Ação"^^xsd:string ;
+    ns1:lancamento_ "2021"^^xsd:string ;
+    ns1:nome_ "Call of Duty Origins"^^xsd:string ;
+    ns1:plataformas_ "PlayStation 3"^^xsd:string .
+
+<http://example.org/games/record/49> ns1:desenvolvedor_ "Nintendo"^^xsd:string ;
+    ns1:genero_ "Aventura"^^xsd:string ;
+    ns1:lancamento_ "2020"^^xsd:string ;
+    ns1:nome_ "Hades Saga"^^xsd:string ;
+    ns1:plataformas_ "Mobile"^^xsd:string .
+
+<http://example.org/games/record/5> ns1:desenvolvedor_ "Epic Games"^^xsd:string ;
+    ns1:genero_ "Estratégia"^^xsd:string ;
+    ns1:lancamento_ "1997"^^xsd:string ;
+    ns1:nome_ "Valorant Chronicles"^^xsd:string ;
+    ns1:plataformas_ "PlayStation 5"^^xsd:string .
+
+<http://example.org/games/record/50> ns1:desenvolvedor_ "Bethesda Game Studios"^^xsd:string ;
+    ns1:genero_ "Estratégia"^^xsd:string ;
+    ns1:lancamento_ "1989"^^xsd:string ;
+    ns1:nome_ "Fortnite Legends"^^xsd:string ;
+    ns1:plataformas_ "PC"^^xsd:string .
+
+<http://example.org/games/record/51> ns1:desenvolvedor_ "Bethesda Game Studios"^^xsd:string ;
+    ns1:genero_ "RPG"^^xsd:string ;
+    ns1:lancamento_ "1991"^^xsd:string ;
+    ns1:nome_ "Apex Legends Odyssey"^^xsd:string ;
+    ns1:plataformas_ "Nintendo Switch"^^xsd:string .
+
+<http://example.org/games/record/52> ns1:desenvolvedor_ "Square Enix"^^xsd:string ;
+    ns1:genero_ "MMORPG"^^xsd:string ;
+    ns1:lancamento_ "2000"^^xsd:string ;
+    ns1:nome_ "Fall Guys Saga"^^xsd:string ;
+    ns1:plataformas_ "PC"^^xsd:string .
+
+<http://example.org/games/record/53> ns1:desenvolvedor_ "FromSoftware"^^xsd:string ;
+    ns1:genero_ "Ação"^^xsd:string ;
+    ns1:lancamento_ "1989"^^xsd:string ;
+    ns1:nome_ "Hades Reborn"^^xsd:string ;
+    ns1:plataformas_ "Nintendo Switch"^^xsd:string .
+
+<http://example.org/games/record/54> ns1:desenvolvedor_ "Santa Monica Studio"^^xsd:string ;
+    ns1:genero_ "Ação"^^xsd:string ;
+    ns1:lancamento_ "1998"^^xsd:string ;
+    ns1:nome_ "Dota 2 Legends"^^xsd:string ;
+    ns1:plataformas_ "Xbox Series X"^^xsd:string .
+
+<http://example.org/games/record/55> ns1:desenvolvedor_ "Blizzard Entertainment"^^xsd:string ;
+    ns1:genero_ "Esporte"^^xsd:string ;
+    ns1:lancamento_ "2004"^^xsd:string ;
+    ns1:nome_ "Fall Guys Odyssey"^^xsd:string ;
+    ns1:plataformas_ "PlayStation 2"^^xsd:string .
+
+<http://example.org/games/record/56> ns1:desenvolvedor_ "Mojang"^^xsd:string ;
+    ns1:genero_ "Battle Royale"^^xsd:string ;
+    ns1:lancamento_ "2011"^^xsd:string ;
+    ns1:nome_ "Hades Odyssey"^^xsd:string ;
+    ns1:plataformas_ "Wii U"^^xsd:string .
+
+<http://example.org/games/record/57> ns1:desenvolvedor_ "Rockstar Games"^^xsd:string ;
+    ns1:genero_ "Ação"^^xsd:string ;
+    ns1:lancamento_ "2013"^^xsd:string ;
+    ns1:nome_ "Grand Theft Auto Chronicles"^^xsd:string ;
+    ns1:plataformas_ "PlayStation 3"^^xsd:string .
+
+<http://example.org/games/record/58> ns1:desenvolvedor_ "Square Enix"^^xsd:string ;
+    ns1:genero_ "Terror"^^xsd:string ;
+    ns1:lancamento_ "1992"^^xsd:string ;
+    ns1:nome_ "Diablo Origins"^^xsd:string ;
+    ns1:plataformas_ "Mobile"^^xsd:string .
+
+<http://example.org/games/record/59> ns1:desenvolvedor_ "Epic Games"^^xsd:string ;
+    ns1:genero_ "Battle Royale"^^xsd:string ;
+    ns1:lancamento_ "2020"^^xsd:string ;
+    ns1:nome_ "League of Legends Adventure"^^xsd:string ;
+    ns1:plataformas_ "PlayStation 3"^^xsd:string .
+
+<http://example.org/games/record/6> ns1:desenvolvedor_ "Valve"^^xsd:string ;
+    ns1:genero_ "Estratégia"^^xsd:string ;
+    ns1:lancamento_ "1993"^^xsd:string ;
+    ns1:nome_ "Elden Ring Origins"^^xsd:string ;
+    ns1:plataformas_ "PC"^^xsd:string .
+
+<http://example.org/games/record/60> ns1:desenvolvedor_ "Mojang"^^xsd:string ;
+    ns1:genero_ "Estratégia"^^xsd:string ;
+    ns1:lancamento_ "1989"^^xsd:string ;
+    ns1:nome_ "PUBG Odyssey"^^xsd:string ;
+    ns1:plataformas_ "Xbox"^^xsd:string .
+
+<http://example.org/games/record/61> ns1:desenvolvedor_ "Supercell"^^xsd:string ;
+    ns1:genero_ "Ação"^^xsd:string ;
+    ns1:lancamento_ "2006"^^xsd:string ;
+    ns1:nome_ "God of War Odyssey"^^xsd:string ;
+    ns1:plataformas_ "PlayStation 2"^^xsd:string .
+
+<http://example.org/games/record/62> ns1:desenvolvedor_ "Ubisoft"^^xsd:string ;
+    ns1:genero_ "Terror"^^xsd:string ;
+    ns1:lancamento_ "1987"^^xsd:string ;
+    ns1:nome_ "The Witcher Chronicles"^^xsd:string ;
+    ns1:plataformas_ "PlayStation 2"^^xsd:string .
+
+<http://example.org/games/record/63> ns1:desenvolvedor_ "Mojang"^^xsd:string ;
+    ns1:genero_ "Terror"^^xsd:string ;
+    ns1:lancamento_ "2020"^^xsd:string ;
+    ns1:nome_ "Fortnite Infinity"^^xsd:string ;
+    ns1:plataformas_ "Wii U"^^xsd:string .
+
+<http://example.org/games/record/64> ns1:desenvolvedor_ "Bethesda Game Studios"^^xsd:string ;
+    ns1:genero_ "MMORPG"^^xsd:string ;
+    ns1:lancamento_ "2009"^^xsd:string ;
+    ns1:nome_ "The Witcher Reborn"^^xsd:string ;
+    ns1:plataformas_ "Xbox"^^xsd:string .
+
+<http://example.org/games/record/65> ns1:desenvolvedor_ "Activision"^^xsd:string ;
+    ns1:genero_ "Corrida"^^xsd:string ;
+    ns1:lancamento_ "2020"^^xsd:string ;
+    ns1:nome_ "The Legend of Zelda Saga"^^xsd:string ;
+    ns1:plataformas_ "Xbox"^^xsd:string .
+
+<http://example.org/games/record/66> ns1:desenvolvedor_ "Activision"^^xsd:string ;
+    ns1:genero_ "Terror"^^xsd:string ;
+    ns1:lancamento_ "2014"^^xsd:string ;
+    ns1:nome_ "League of Legends Adventure"^^xsd:string ;
+    ns1:plataformas_ "PC"^^xsd:string .
+
+<http://example.org/games/record/67> ns1:desenvolvedor_ "Ubisoft"^^xsd:string ;
+    ns1:genero_ "Sandbox"^^xsd:string ;
+    ns1:lancamento_ "2011"^^xsd:string ;
+    ns1:nome_ "Hades Saga"^^xsd:string ;
+    ns1:plataformas_ "PlayStation"^^xsd:string .
+
+<http://example.org/games/record/68> ns1:desenvolvedor_ "Square Enix"^^xsd:string ;
+    ns1:genero_ "Battle Royale"^^xsd:string ;
+    ns1:lancamento_ "1987"^^xsd:string ;
+    ns1:nome_ "PUBG Adventure"^^xsd:string ;
+    ns1:plataformas_ "Nintendo Switch"^^xsd:string .
+
+<http://example.org/games/record/69> ns1:desenvolvedor_ "Activision"^^xsd:string ;
+    ns1:genero_ "Ação"^^xsd:string ;
+    ns1:lancamento_ "2017"^^xsd:string ;
+    ns1:nome_ "Minecraft Reborn"^^xsd:string ;
+    ns1:plataformas_ "Xbox 360"^^xsd:string .
+
+<http://example.org/games/record/7> ns1:desenvolvedor_ "Valve"^^xsd:string ;
+    ns1:genero_ "Puzzle"^^xsd:string ;
+    ns1:lancamento_ "1987"^^xsd:string ;
+    ns1:nome_ "The Sims Saga"^^xsd:string ;
+    ns1:plataformas_ "PlayStation 3"^^xsd:string .
+
+<http://example.org/games/record/70> ns1:desenvolvedor_ "Blizzard Entertainment"^^xsd:string ;
+    ns1:genero_ "MMORPG"^^xsd:string ;
+    ns1:lancamento_ "2008"^^xsd:string ;
+    ns1:nome_ "Elden Ring Odyssey"^^xsd:string ;
+    ns1:plataformas_ "PlayStation 3"^^xsd:string .
+
+<http://example.org/games/record/71> ns1:desenvolvedor_ "Nintendo"^^xsd:string ;
+    ns1:genero_ "MMORPG"^^xsd:string ;
+    ns1:lancamento_ "1987"^^xsd:string ;
+    ns1:nome_ "Overwatch Legends"^^xsd:string ;
+    ns1:plataformas_ "Xbox Series X"^^xsd:string .
+
+<http://example.org/games/record/72> ns1:desenvolvedor_ "Mojang"^^xsd:string ;
+    ns1:genero_ "Simulação"^^xsd:string ;
+    ns1:lancamento_ "2006"^^xsd:string ;
+    ns1:nome_ "League of Legends Odyssey"^^xsd:string ;
+    ns1:plataformas_ "PlayStation 2"^^xsd:string .
+
+<http://example.org/games/record/73> ns1:desenvolvedor_ "Supercell"^^xsd:string ;
+    ns1:genero_ "MMORPG"^^xsd:string ;
+    ns1:lancamento_ "1997"^^xsd:string ;
+    ns1:nome_ "PUBG Odyssey"^^xsd:string ;
+    ns1:plataformas_ "Xbox 360"^^xsd:string .
+
+<http://example.org/games/record/74> ns1:desenvolvedor_ "Bethesda Game Studios"^^xsd:string ;
+    ns1:genero_ "Sandbox"^^xsd:string ;
+    ns1:lancamento_ "2004"^^xsd:string ;
+    ns1:nome_ "The Witcher Origins"^^xsd:string ;
+    ns1:plataformas_ "Xbox Series X"^^xsd:string .
+
+<http://example.org/games/record/75> ns1:desenvolvedor_ "Rockstar Games"^^xsd:string ;
+    ns1:genero_ "Puzzle"^^xsd:string ;
+    ns1:lancamento_ "2018"^^xsd:string ;
+    ns1:nome_ "Fortnite Adventure"^^xsd:string ;
+    ns1:plataformas_ "Nintendo Switch"^^xsd:string .
+
+<http://example.org/games/record/76> ns1:desenvolvedor_ "Ubisoft"^^xsd:string ;
+    ns1:genero_ "Aventura"^^xsd:string ;
+    ns1:lancamento_ "1987"^^xsd:string ;
+    ns1:nome_ "Cyberpunk Adventure"^^xsd:string ;
+    ns1:plataformas_ "PlayStation 5"^^xsd:string .
+
+<http://example.org/games/record/77> ns1:desenvolvedor_ "Square Enix"^^xsd:string ;
+    ns1:genero_ "Estratégia"^^xsd:string ;
+    ns1:lancamento_ "2007"^^xsd:string ;
+    ns1:nome_ "Apex Legends Infinity"^^xsd:string ;
+    ns1:plataformas_ "Nintendo Switch"^^xsd:string .
+
+<http://example.org/games/record/78> ns1:desenvolvedor_ "FromSoftware"^^xsd:string ;
+    ns1:genero_ "Simulação"^^xsd:string ;
+    ns1:lancamento_ "2005"^^xsd:string ;
+    ns1:nome_ "Assassin's Creed Reborn"^^xsd:string ;
+    ns1:plataformas_ "PlayStation"^^xsd:string .
+
+<http://example.org/games/record/79> ns1:desenvolvedor_ "Bungie"^^xsd:string ;
+    ns1:genero_ "FPS"^^xsd:string ;
+    ns1:lancamento_ "2009"^^xsd:string ;
+    ns1:nome_ "Dota 2 Legends"^^xsd:string ;
+    ns1:plataformas_ "PlayStation"^^xsd:string .
+
+<http://example.org/games/record/8> ns1:desenvolvedor_ "Blizzard Entertainment"^^xsd:string ;
+    ns1:genero_ "Puzzle"^^xsd:string ;
+    ns1:lancamento_ "2016"^^xsd:string ;
+    ns1:nome_ "PUBG Reborn"^^xsd:string ;
+    ns1:plataformas_ "PlayStation 3"^^xsd:string .
+
+<http://example.org/games/record/80> ns1:desenvolvedor_ "CD Projekt Red"^^xsd:string ;
+    ns1:genero_ "FPS"^^xsd:string ;
+    ns1:lancamento_ "2016"^^xsd:string ;
+    ns1:nome_ "Stardew Valley Origins"^^xsd:string ;
+    ns1:plataformas_ "PlayStation 2"^^xsd:string .
+
+<http://example.org/games/record/81> ns1:desenvolvedor_ "Santa Monica Studio"^^xsd:string ;
+    ns1:genero_ "Estratégia"^^xsd:string ;
+    ns1:lancamento_ "2012"^^xsd:string ;
+    ns1:nome_ "The Witcher Legends"^^xsd:string ;
+    ns1:plataformas_ "PlayStation"^^xsd:string .
+
+<http://example.org/games/record/82> ns1:desenvolvedor_ "Bethesda Game Studios"^^xsd:string ;
+    ns1:genero_ "RPG"^^xsd:string ;
+    ns1:lancamento_ "2012"^^xsd:string ;
+    ns1:nome_ "Valorant Chronicles"^^xsd:string ;
+    ns1:plataformas_ "PlayStation"^^xsd:string .
+
+<http://example.org/games/record/83> ns1:desenvolvedor_ "CD Projekt Red"^^xsd:string ;
+    ns1:genero_ "Sandbox"^^xsd:string ;
+    ns1:lancamento_ "1987"^^xsd:string ;
+    ns1:nome_ "League of Legends Infinity"^^xsd:string ;
+    ns1:plataformas_ "Nintendo Switch"^^xsd:string .
+
+<http://example.org/games/record/84> ns1:desenvolvedor_ "Santa Monica Studio"^^xsd:string ;
+    ns1:genero_ "Simulação"^^xsd:string ;
+    ns1:lancamento_ "2018"^^xsd:string ;
+    ns1:nome_ "Minecraft Chronicles"^^xsd:string ;
+    ns1:plataformas_ "PlayStation 5"^^xsd:string .
+
+<http://example.org/games/record/85> ns1:desenvolvedor_ "Rockstar Games"^^xsd:string ;
+    ns1:genero_ "Terror"^^xsd:string ;
+    ns1:lancamento_ "2015"^^xsd:string ;
+    ns1:nome_ "Diablo Infinity"^^xsd:string ;
+    ns1:plataformas_ "Xbox 360"^^xsd:string .
+
+<http://example.org/games/record/86> ns1:desenvolvedor_ "Square Enix"^^xsd:string ;
+    ns1:genero_ "Ação"^^xsd:string ;
+    ns1:lancamento_ "1990"^^xsd:string ;
+    ns1:nome_ "EVE Online Chronicles"^^xsd:string ;
+    ns1:plataformas_ "PC"^^xsd:string .
+
+<http://example.org/games/record/87> ns1:desenvolvedor_ "Rockstar Games"^^xsd:string ;
+    ns1:genero_ "FPS"^^xsd:string ;
+    ns1:lancamento_ "2022"^^xsd:string ;
+    ns1:nome_ "Cyberpunk Infinity"^^xsd:string ;
+    ns1:plataformas_ "PlayStation 3"^^xsd:string .
+
+<http://example.org/games/record/88> ns1:desenvolvedor_ "Mojang"^^xsd:string ;
+    ns1:genero_ "Estratégia"^^xsd:string ;
+    ns1:lancamento_ "1986"^^xsd:string ;
+    ns1:nome_ "Overwatch Origins"^^xsd:string ;
+    ns1:plataformas_ "PlayStation 3"^^xsd:string .
+
+<http://example.org/games/record/89> ns1:desenvolvedor_ "Rockstar Games"^^xsd:string ;
+    ns1:genero_ "RPG"^^xsd:string ;
+    ns1:lancamento_ "1986"^^xsd:string ;
+    ns1:nome_ "The Sims Reborn"^^xsd:string ;
+    ns1:plataformas_ "Wii U"^^xsd:string .
+
+<http://example.org/games/record/9> ns1:desenvolvedor_ "Mojang"^^xsd:string ;
+    ns1:genero_ "Sandbox"^^xsd:string ;
+    ns1:lancamento_ "2000"^^xsd:string ;
+    ns1:nome_ "Diablo Odyssey"^^xsd:string ;
+    ns1:plataformas_ "Nintendo Switch"^^xsd:string .
+
+<http://example.org/games/record/90> ns1:desenvolvedor_ "Nintendo"^^xsd:string ;
+    ns1:genero_ "Simulação"^^xsd:string ;
+    ns1:lancamento_ "1999"^^xsd:string ;
+    ns1:nome_ "God of War Reborn"^^xsd:string ;
+    ns1:plataformas_ "PlayStation"^^xsd:string .
+
+<http://example.org/games/record/91> ns1:desenvolvedor_ "Rockstar Games"^^xsd:string ;
+    ns1:genero_ "Battle Royale"^^xsd:string ;
+    ns1:lancamento_ "2022"^^xsd:string ;
+    ns1:nome_ "Call of Duty Legends"^^xsd:string ;
+    ns1:plataformas_ "PlayStation"^^xsd:string .
+
+<http://example.org/games/record/92> ns1:desenvolvedor_ "Mojang"^^xsd:string ;
+    ns1:genero_ "Estratégia"^^xsd:string ;
+    ns1:lancamento_ "2000"^^xsd:string ;
+    ns1:nome_ "Apex Legends Saga"^^xsd:string ;
+    ns1:plataformas_ "PlayStation 2"^^xsd:string .
+
+<http://example.org/games/record/93> ns1:desenvolvedor_ "Rockstar Games"^^xsd:string ;
+    ns1:genero_ "FPS"^^xsd:string ;
+    ns1:lancamento_ "1985"^^xsd:string ;
+    ns1:nome_ "Stardew Valley Saga"^^xsd:string ;
+    ns1:plataformas_ "Wii U"^^xsd:string .
+
+<http://example.org/games/record/94> ns1:desenvolvedor_ "Bethesda Game Studios"^^xsd:string ;
+    ns1:genero_ "Estratégia"^^xsd:string ;
+    ns1:lancamento_ "1985"^^xsd:string ;
+    ns1:nome_ "God of War Infinity"^^xsd:string ;
+    ns1:plataformas_ "PlayStation 2"^^xsd:string .
+
+<http://example.org/games/record/95> ns1:desenvolvedor_ "Bethesda Game Studios"^^xsd:string ;
+    ns1:genero_ "Sandbox"^^xsd:string ;
+    ns1:lancamento_ "2009"^^xsd:string ;
+    ns1:nome_ "Hollow Knight Saga"^^xsd:string ;
+    ns1:plataformas_ "Wii U"^^xsd:string .
+
+<http://example.org/games/record/96> ns1:desenvolvedor_ "Activision"^^xsd:string ;
+    ns1:genero_ "RPG"^^xsd:string ;
+    ns1:lancamento_ "2010"^^xsd:string ;
+    ns1:nome_ "PUBG Legends"^^xsd:string ;
+    ns1:plataformas_ "PC"^^xsd:string .
+
+<http://example.org/games/record/97> ns1:desenvolvedor_ "Square Enix"^^xsd:string ;
+    ns1:genero_ "Battle Royale"^^xsd:string ;
+    ns1:lancamento_ "1996"^^xsd:string ;
+    ns1:nome_ "Call of Duty Odyssey"^^xsd:string ;
+    ns1:plataformas_ "PlayStation"^^xsd:string .
+
+<http://example.org/games/record/98> ns1:desenvolvedor_ "Activision"^^xsd:string ;
+    ns1:genero_ "MMORPG"^^xsd:string ;
+    ns1:lancamento_ "2016"^^xsd:string ;
+    ns1:nome_ "Among Us Saga"^^xsd:string ;
+    ns1:plataformas_ "PlayStation 2"^^xsd:string .
+
+<http://example.org/games/record/99> ns1:desenvolvedor_ "Blizzard Entertainment"^^xsd:string ;
+    ns1:genero_ "Simulação"^^xsd:string ;
+    ns1:lancamento_ "2004"^^xsd:string ;
+    ns1:nome_ "Call of Duty Adventure"^^xsd:string ;
+    ns1:plataformas_ "Mobile"^^xsd:string .
+

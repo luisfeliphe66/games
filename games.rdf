@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://example.org/games/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://example.org/games/record/69">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Minecraft Reborn</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ação</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Activision</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2017</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Xbox 360</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/64">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The Witcher Reborn</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MMORPG</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bethesda Game Studios</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2009</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Xbox</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/93">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stardew Valley Saga</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FPS</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rockstar Games</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1985</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wii U</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/27">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Overwatch Reborn</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Battle Royale</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Epic Games</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2005</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wii U</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/33">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grand Theft Auto Infinity</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Estratégia</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Valve</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2023</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PlayStation 3</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/48">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Call of Duty Origins</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ação</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ubisoft</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2021</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PlayStation 3</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/45">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fortnite Origins</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FPS</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Square Enix</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2008</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PlayStation 5</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/96">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBG Legends</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RPG</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Activision</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2010</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PC</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/89">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The Sims Reborn</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RPG</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rockstar Games</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1986</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wii U</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/73">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBG Odyssey</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MMORPG</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Supercell</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1997</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Xbox 360</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/94">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">God of War Infinity</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Estratégia</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bethesda Game Studios</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1985</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PlayStation 2</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/81">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The Witcher Legends</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Estratégia</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Santa Monica Studio</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2012</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PlayStation</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/36">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The Witcher Chronicles</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FPS</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blizzard Entertainment</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2008</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PlayStation 5</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/53">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hades Reborn</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ação</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FromSoftware</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1989</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nintendo Switch</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/95">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hollow Knight Saga</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sandbox</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bethesda Game Studios</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2009</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wii U</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/55">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fall Guys Odyssey</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Esporte</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blizzard Entertainment</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2004</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PlayStation 2</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/14">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fall Guys Saga</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Esporte</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Activision</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1996</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PlayStation 2</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/86">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EVE Online Chronicles</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ação</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Square Enix</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1990</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PC</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/70">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Elden Ring Odyssey</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MMORPG</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blizzard Entertainment</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2008</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PlayStation 3</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/50">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fortnite Legends</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Estratégia</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bethesda Game Studios</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1989</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PC</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/59">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">League of Legends Adventure</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Battle Royale</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Epic Games</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2020</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PlayStation 3</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/67">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hades Saga</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sandbox</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ubisoft</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2011</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PlayStation</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/82">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Valorant Chronicles</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RPG</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bethesda Game Studios</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2012</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PlayStation</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/3">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Among Us Origins</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Puzzle</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mojang</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2008</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Xbox Series X</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/10">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stardew Valley Reborn</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sandbox</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Activision</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1987</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mobile</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/8">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBG Reborn</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Puzzle</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blizzard Entertainment</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2016</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PlayStation 3</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/98">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Among Us Saga</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MMORPG</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Activision</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2016</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PlayStation 2</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/52">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fall Guys Saga</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MMORPG</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Square Enix</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2000</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PC</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/4">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Overwatch Origins</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Esporte</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Supercell</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1994</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Xbox Series X</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/40">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grand Theft Auto Chronicles</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RPG</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Activision</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2011</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wii U</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/15">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Diablo Legends</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ação</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FromSoftware</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1994</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PlayStation</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/74">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The Witcher Origins</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sandbox</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bethesda Game Studios</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2004</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Xbox Series X</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/39">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grand Theft Auto Odyssey</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RPG</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Santa Monica Studio</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2019</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PlayStation 3</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/71">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Overwatch Legends</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MMORPG</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nintendo</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1987</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Xbox Series X</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/77">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Apex Legends Infinity</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Estratégia</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Square Enix</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2007</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nintendo Switch</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/42">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Among Us Adventure</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Aventura</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rockstar Games</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1986</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PC</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/44">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Minecraft Adventure</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Aventura</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rockstar Games</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2019</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Xbox Series X</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/13">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stardew Valley Saga</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FPS</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Activision</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2023</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Xbox Series X</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/84">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Minecraft Chronicles</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Simulação</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Santa Monica Studio</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2018</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PlayStation 5</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/22">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cyberpunk Infinity</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ação</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bethesda Game Studios</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2009</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PlayStation 2</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/16">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Red Dead Redemption Reborn</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Esporte</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CD Projekt Red</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2007</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wii U</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/17">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Call of Duty Infinity</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Simulação</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nintendo</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1996</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nintendo Switch</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/35">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBG Infinity</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RPG</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mojang</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PlayStation</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/75">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fortnite Adventure</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Puzzle</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rockstar Games</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2018</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nintendo Switch</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/49">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hades Saga</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Aventura</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nintendo</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2020</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mobile</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/26">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">League of Legends Reborn</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Estratégia</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nintendo</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2012</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Xbox 360</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/60">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBG Odyssey</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Estratégia</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mojang</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1989</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Xbox</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/72">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">League of Legends Odyssey</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Simulação</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mojang</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2006</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PlayStation 2</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/6">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Elden Ring Origins</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Estratégia</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Valve</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1993</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PC</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/12">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Red Dead Redemption Origins</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RPG</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Supercell</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2009</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PlayStation 5</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/30">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Call of Duty Adventure</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Estratégia</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Square Enix</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Xbox 360</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/18">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Overwatch Saga</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Puzzle</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mojang</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2007</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Xbox</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/2">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Assassin's Creed Odyssey</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Corrida</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Epic Games</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1985</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PlayStation 3</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/68">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBG Adventure</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Battle Royale</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Square Enix</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1987</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nintendo Switch</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/51">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Apex Legends Odyssey</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RPG</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bethesda Game Studios</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1991</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nintendo Switch</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/66">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">League of Legends Adventure</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Terror</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Activision</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2014</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PC</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/85">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Diablo Infinity</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Terror</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rockstar Games</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Xbox 360</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/20">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stardew Valley Saga</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Puzzle</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Supercell</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1990</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mobile</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/91">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Call of Duty Legends</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Battle Royale</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rockstar Games</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PlayStation</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/34">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Diablo Origins</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sandbox</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Square Enix</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2023</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Xbox</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/0">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Valorant Reborn</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MMORPG</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bungie</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1986</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PlayStation 5</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/46">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Elden Ring Reborn</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Terror</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Epic Games</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2005</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PlayStation 5</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/41">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Elden Ring Chronicles</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Battle Royale</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Epic Games</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2000</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PC</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/79">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dota 2 Legends</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FPS</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bungie</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2009</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PlayStation</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/92">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Apex Legends Saga</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Estratégia</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mojang</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2000</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PlayStation 2</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/5">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Valorant Chronicles</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Estratégia</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Epic Games</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1997</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PlayStation 5</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/23">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Assassin's Creed Chronicles</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sandbox</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bethesda Game Studios</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1992</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mobile</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/38">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Red Dead Redemption Odyssey</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RPG</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Valve</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1988</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PlayStation</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/87">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cyberpunk Infinity</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FPS</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rockstar Games</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PlayStation 3</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/63">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fortnite Infinity</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Terror</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mojang</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2020</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wii U</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/47">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Apex Legends Adventure</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Estratégia</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CD Projekt Red</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2013</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mobile</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/54">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dota 2 Legends</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ação</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Santa Monica Studio</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1998</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Xbox Series X</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/25">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">League of Legends Origins</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Battle Royale</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Santa Monica Studio</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2008</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PlayStation 2</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/43">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Assassin's Creed Chronicles</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Puzzle</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mojang</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1986</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Xbox</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/65">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The Legend of Zelda Saga</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Corrida</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Activision</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2020</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Xbox</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/21">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Call of Duty Reborn</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Battle Royale</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CD Projekt Red</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1990</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wii U</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/31">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Overwatch Origins</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Aventura</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blizzard Entertainment</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1995</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PlayStation</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/7">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The Sims Saga</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Puzzle</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Valve</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1987</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PlayStation 3</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/11">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Valorant Infinity</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ação</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FromSoftware</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2021</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Xbox 360</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/28">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Overwatch Saga</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sandbox</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nintendo</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2001</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PlayStation 5</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/57">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grand Theft Auto Chronicles</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ação</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rockstar Games</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2013</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PlayStation 3</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/19">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBG Saga</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Terror</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Valve</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2019</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PlayStation 2</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/32">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hades Odyssey</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Estratégia</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Activision</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2019</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PlayStation 2</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/97">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Call of Duty Odyssey</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Battle Royale</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Square Enix</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1996</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PlayStation</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/37">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EVE Online Chronicles</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MMORPG</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Square Enix</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2011</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PlayStation 3</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/99">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Call of Duty Adventure</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Simulação</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blizzard Entertainment</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2004</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mobile</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/83">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">League of Legends Infinity</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sandbox</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CD Projekt Red</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1987</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nintendo Switch</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/88">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Overwatch Origins</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Estratégia</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mojang</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1986</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PlayStation 3</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/9">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Diablo Odyssey</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sandbox</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mojang</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2000</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nintendo Switch</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/29">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBG Saga</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Aventura</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ubisoft</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2005</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Xbox</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/62">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The Witcher Chronicles</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Terror</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ubisoft</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1987</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PlayStation 2</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/61">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">God of War Odyssey</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ação</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Supercell</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2006</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PlayStation 2</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/56">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hades Odyssey</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Battle Royale</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mojang</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2011</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wii U</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/58">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Diablo Origins</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Terror</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Square Enix</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1992</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mobile</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/80">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stardew Valley Origins</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FPS</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CD Projekt Red</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2016</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PlayStation 2</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/76">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cyberpunk Adventure</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Aventura</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ubisoft</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1987</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PlayStation 5</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/24">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grand Theft Auto Adventure</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ação</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Epic Games</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1990</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PlayStation 2</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/78">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Assassin's Creed Reborn</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Simulação</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FromSoftware</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2005</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PlayStation</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/1">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBG Origins</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Corrida</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blizzard Entertainment</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2001</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wii U</ns1:plataformas_>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/games/record/90">
+    <ns1:nome_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">God of War Reborn</ns1:nome_>
+    <ns1:genero_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Simulação</ns1:genero_>
+    <ns1:desenvolvedor_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nintendo</ns1:desenvolvedor_>
+    <ns1:lancamento_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1999</ns1:lancamento_>
+    <ns1:plataformas_ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PlayStation</ns1:plataformas_>
+  </rdf:Description>
+</rdf:RDF>
